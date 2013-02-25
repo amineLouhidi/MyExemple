@@ -19,7 +19,7 @@
     <property name="basedir" value="C:\Users\LOUHIDI\Desktop\exMaven\Exemple"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre6\lib\endorsed"/>
     <property name="os.arch" value="amd64"/>
-    <property name="surefire.real.class.path" value="C:\Users\LOUHIDI\Desktop\exMaven\Exemple\target\surefire\surefirebooter6434880167829340839.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\LOUHIDI\Desktop\exMaven\Exemple\target\surefire\surefirebooter1734015507708066176.jar"/>
     <property name="java.io.tmpdir" value="C:\Users\LOUHIDI\AppData\Local\Temp\"/>
     <property name="line.separator" value="
 "/>
